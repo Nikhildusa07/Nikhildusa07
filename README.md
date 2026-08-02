@@ -1,18 +1,19 @@
-# Hi 👋, I'm Dusa Nikhil
+<h1 align="center">Hi 👋, I'm Dusa Nikhil</h1>
+<h3 align="center">Python Full Stack Developer | AI & ML Graduate</h3>
 
-### Python Full Stack Developer | AI & ML Graduate
-
-I'm a passionate Python developer focused on building scalable web applications and AI-powered solutions. I enjoy solving real-world problems using Python, Django, Django REST Framework, React, SQL, and Machine Learning.
+<p align="center">
+  Passionate about building scalable web applications, REST APIs, and AI-powered solutions using Python, Django, React, and Machine Learning.
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Graduate (Artificial Intelligence & Machine Learning)
+- 🎓 B.Tech Graduate in Artificial Intelligence & Machine Learning
 - 💻 Python Full Stack Developer
-- 🌱 Currently improving my Django, React, and DSA skills
-- 🔭 Building real-world full stack and AI projects
-- 📫 Email: **dusanikhil3@gmail.com**
+- 🌱 Currently improving **Django, Django REST Framework, React, and Data Structures & Algorithms**
+- 🚀 Interested in Backend Development, Full Stack Development, and AI Applications
+- 🤝 Open to Full-Time Python / Django / Full Stack Developer opportunities
 
 ---
 
@@ -20,30 +21,33 @@ I'm a passionate Python developer focused on building scalable web applications 
 
 ### Languages
 
-- Python
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+</p>
 
 ### Backend
 
-- Django
-- Django REST Framework
-- Flask
-- FastAPI
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+</p>
 
 ### Frontend
 
-- React
-- Bootstrap
-- Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
 
 ### Database
 
-- MySQL
-- SQLite
-- TiDB Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ### AI / ML
 
@@ -55,38 +59,46 @@ I'm a passionate Python developer focused on building scalable web applications 
 - Pandas
 - NumPy
 
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 ## 🎤 VibeVoice
+Deep Learning based Speech Emotion Recognition System.
 
-Speech Emotion Recognition using Deep Learning.
-
----
-
-## ⚖️ Nyayasetu
-
-AI-powered Indian Legal Assistant using Retrieval-Augmented Generation (RAG).
+**Tech Stack:** Python, TensorFlow, Flask
 
 ---
 
-## 🏫 Student Management System
+## ⚖️ Nyayasetu – AI Powered Indian Legal Assistant
 
-Full Stack Student Management System using Django.
+RAG-based legal assistant built using FAISS, Sentence Transformers, Gemini API, and Flask.
+
+---
+
+## 🏫 Django Student Management System
+
+Role-based student management application built with Django.
+
+Features:
+
+- Authentication
+- CRUD Operations
+- ORM
+- Templates
+- SQLite/MySQL
 
 ---
 
 ## 📝 Notes Management System
 
-Full Stack Notes Management Application using React + Django REST Framework.
+Full Stack Notes Application.
+
+**Tech Stack**
+
+- React
+- Django REST Framework
+- MySQL (TiDB Cloud)
 
 ---
 
@@ -96,17 +108,52 @@ Speech-to-Text application using Wav2Vec2 and Google Speech Recognition.
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
-> GitHub Stats and Streak Cards will be added in the next step.
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhildusa07&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhildusa07&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nikhildusa07&theme=github-dark"/>
+
+</p>
 
 ---
 
-## 📫 Connect with Me
+# 📚 Currently Learning
 
-- LinkedIn: https://linkedin.com/in/nikhil-dusa-71089b1a7
-- Email: dusanikhil3@gmail.com
+- Django REST Framework
+- React
+- System Design Fundamentals
+- Data Structures & Algorithms
+- Backend Best Practices
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📫 Connect with Me
+
+<p>
+
+<a href="mailto:dusanikhil3@gmail.com">
+<img src="https://img.shields.io/badge/Email-dusanikhil3%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/nikhil-dusa-71089b1a7">
+<img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Dusa-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider giving them a star!
+
+</p>
