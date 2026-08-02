@@ -6,10 +6,11 @@ Passionate about building scalable web applications, REST APIs, and AI-powered s
 </p>
 
 <p align="center">
-  <a href="mailto:dusanikhil3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dusanikhil3%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dusanikhil3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nikhil-dusa-71089b1a7" target="_blank">
+
+  <a href="https://www.linkedin.com/in/nikhil-dusa-71089b1a7">
     <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Dusa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -144,14 +145,14 @@ Seeking an opportunity as a **Python Full Stack Developer** where I can apply my
 
 # 📫 Connect With Me
 
-<p align="left">
-<a href="mailto:dusanikhil3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-dusanikhil3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dusanikhil3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/nikhil-dusa-71089b1a7">
-<img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Dusa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/nikhil-dusa-71089b1a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Dusa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
