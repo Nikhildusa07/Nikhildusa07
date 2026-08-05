@@ -99,18 +99,6 @@ Speech-to-Text application using Wav2Vec2 and Google Speech Recognition.
 
 Weather dashboard developed using Django and MySQL with real-time weather data integration.
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhildusa07&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhildusa07&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikhildusa07&theme=github-dark&hide_border=true" />
-</p>
 
 ---
 
